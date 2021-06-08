@@ -51,6 +51,11 @@ Nicht alles ist dort hochwertig und prima. Aber man kann mit Udemy anfangen und 
 Manche Kurse werden allerdings auch gratis angeboten. Im schlimmsten Fall hat man dann seine Zeit verschwendet.  
 - https://www.udemy.com
 
+Dieses Bootcamp ist dort ein Bestseller und wird auch von einigen unserer Mitglieder gelobt.  
+Kostet durch Rabattaktionen teilweise knapp nen Zehner:  
+- https://www.udemy.com/course/python-bootcamp
+
+
 ### RealPython
 Landet bei Google aus gutem Grund oft weit oben. RealPython ist sehr gut strukturiert und erklärt Python-Themen ausgezeichnet.  
 Deren YouTube-Videos sind teilweise sehr knapp und entsprechen Ausschnitte ihrer angebotenen Kurse.  
