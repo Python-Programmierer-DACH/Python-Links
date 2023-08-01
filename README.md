@@ -11,7 +11,7 @@ Inhaltsverzeichnis
    * [Unsere Community](#unsere-community)
    * [Offizielle Dokumentationen](#offizielle-dokumentationen)
       * [python.org](#pythonorg)
-      * [PyPi.org (Python Package Index)](#pypi-python-package-index)
+      * [PyPi.org (Python Package Index)](#pypiorg-python-package-index)
       * [NumPy](#numpy)
       * [Pandas](#pandas)
    * [Webseiten](#webseiten)
@@ -21,7 +21,7 @@ Inhaltsverzeichnis
       * [Rheinwerk-Verlag](#rheinwerk-verlag)
       * [grund-wissen.de](#grund-wissende)
       * [mschimmels.de](#mschimmelsde)
-      * [inventwithpython.com](#inventwithpython.com)
+      * [inventwithpython.com](#inventwithpythoncom)
    * [Tutorials](#tutorials)
       * [py-tutorial.readthedocs.io](#py-tutorialreadthedocsio)
 
