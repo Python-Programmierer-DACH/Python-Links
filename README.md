@@ -21,6 +21,7 @@ Inhaltsverzeichnis
       * [Rheinwerk-Verlag](#rheinwerk-verlag)
       * [grund-wissen.de](#grund-wissende)
       * [mschimmels.de](#mschimmelsde)
+      * [inventwithpython.com](#inventwithpython.com)
    * [Tutorials](#tutorials)
       * [py-tutorial.readthedocs.io](#py-tutorialreadthedocsio)
 
@@ -107,6 +108,10 @@ Enthält leider ein paar Spuren von Python 2, mittel-schlimme PEP8-Schwächen un
 
 - **[DE]** http://www.mschimmels.de/
 - **[DE]** Direkt zum PDF: http://www.mschimmels.de/eigeneDateien/Python-Kurs.pdf
+
+## inventwithpython.com
+Einige vielseitige Bücher, die sich online gratis lesen lassen:
+- **[EN]** https://inventwithpython.com/
 
 
 # Tutorials
